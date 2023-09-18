@@ -1,8 +1,8 @@
 # Ball Sort
+
 **BALL SORT GAME PROJECT MADE AS OUR PRODUCT FOR XREV STUDIO**
+
 ![Ball Sort Game Banner](images/image1.png)
-
-
 
 ## About Ball Sort
 
