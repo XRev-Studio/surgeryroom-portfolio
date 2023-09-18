@@ -2,7 +2,7 @@
 
 **AN IMMERSIVE VR EXPERIENCE THAT REVOLUTIONIZES THE PROCESS OF PATIENT MANAGEMENT AND SURGICAL PLANNING IN THE MODERN SURGERY ROOM.**
 
-![Surgery Room Icon](link_to_icon_image)
+![Surgery Room Icon](images/image1.png)
 
 ## About the VR Surgery Room
 
