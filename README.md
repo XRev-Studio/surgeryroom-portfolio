@@ -1,6 +1,7 @@
 # Ball Sort
 
 **BALL SORT GAME PROJECT MADE AS OUR PRODUCT FOR XREV STUDIO**
+![Surgery Room Icon](images/image1.png)
 
 ## About Ball Sort
 
