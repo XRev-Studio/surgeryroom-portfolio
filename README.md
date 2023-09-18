@@ -1,6 +1,6 @@
 # Ball Sort
 
-![Ball Sort Game Banner](link_to_game_banner_image)
+![Ball Sort Game Banner](images/image1.png)
 
 **BALL SORT GAME PROJECT MADE AS OUR PRODUCT FOR XREV STUDIO**
 
