@@ -37,14 +37,10 @@ Step into the cutting-edge VR Surgery Room, an immersive virtual reality environ
 
 ## Gallery
 
-![VR Surgery Room Screenshot 1](images/VR_Surgery_Room_Screenshot1.png)
-![VR Surgery Room Screenshot 2](images/VR_Surgery_Room_Screenshot2.png)
+![VR Surgery Room Screenshot 1](images/surgery2.jpg)
+![VR Surgery Room Screenshot 2](images/surgery3.jpg)
 
-## Links
 
-- [Download on Playstore](link_to_google_play_store_page_of_app)
-- [Official Website](link_to_website)
-- [User Documentation](link_to_user_documentation)
 
 ---
 
