@@ -2,7 +2,7 @@
 
 **A PIONEERING VR SURGERY SIMULATION EXPERIENCE DEVELOPED BY XREV STUDIO**
 
-![VR Surgery Room Banner](images/Surgery Incision Points - frame at 0m0s.jpg)
+![VR Surgery Room Banner]()
 
 ## About VR Surgery Room
 
