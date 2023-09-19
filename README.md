@@ -2,7 +2,7 @@
 
 **A PIONEERING VR SURGERY SIMULATION EXPERIENCE DEVELOPED BY XREV STUDIO**
 
-![VR Surgery Room Banner]()
+![VR Surgery Room Banner](images/surgery.jpg)
 
 ## About VR Surgery Room
 
